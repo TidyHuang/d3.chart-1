@@ -17,7 +17,7 @@
   },
   "license": "MIT Expat",
   "dependencies": {
-    "d3": "~3.3.9"
+    "d3": "3.x"
   },
   "main": "d3.chart.js",
   "scripts": ["d3.chart.js"],
